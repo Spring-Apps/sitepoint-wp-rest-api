@@ -4,5 +4,5 @@ This is a child theme for WordPress' _twentysixteen_. Just add this folder under
 
 # Requirements
 
-[WordPress REST API](https://wordpress.org/plugins/rest-api/)
-[WP OAuth Server](https://wordpress.org/plugins/oauth2-provider/)
+* [WordPress REST API](https://wordpress.org/plugins/rest-api/)
+* [WP OAuth Server](https://wordpress.org/plugins/oauth2-provider/)
