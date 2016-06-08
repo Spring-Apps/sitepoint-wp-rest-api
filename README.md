@@ -8,7 +8,7 @@ WordPress child theme that accompanies the SitePoint article: http://www.sitepoi
 * [WordPress REST API](https://wordpress.org/plugins/rest-api/)
 * [WP OAuth Server](https://wordpress.org/plugins/oauth2-provider/)
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 Add this folder under wp-content/themes, and make sure you have _twentysixteen_ in there as well.
 
